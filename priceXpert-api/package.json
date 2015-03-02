@@ -1,0 +1,11 @@
+{
+  "name": "priceXpert-api",
+  "version": "0.0.0",
+  "description": "priceXpert-api",
+  "main": "server.js",
+  "author": {
+    "name": "dennism",
+    "email": ""
+  },
+  "dependencies": {}
+}
